@@ -7,3 +7,4 @@ controller_list:
       - joint5_to_joint4
       - joint6_to_joint5
       - joint6output_to_joint6
+      - gitpper_to_joint6output
